@@ -1,0 +1,18 @@
+{
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.tabCompletion": "on",
+  "editor.snippetSuggestions": "top",
+  "editor.inlineSuggest.enabled": true,
+  "editor.parameterHints.enabled": true,
+  "javascript.suggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "javascript": true,
+    "html": true
+  }
+}

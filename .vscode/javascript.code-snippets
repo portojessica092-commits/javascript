@@ -1,0 +1,15 @@
+{
+  "Switch statement": {
+    "prefix": "switch",
+    "body": [
+      "switch (${1:expressao}) {",
+      "\tcase ${2:valor}:",
+      "\t\t$0",
+      "\t\tbreak;",
+      "\tdefault:",
+      "\t\tbreak;",
+      "}"
+    ],
+    "description": "Insere uma estrutura switch com case e default"
+  }
+}
